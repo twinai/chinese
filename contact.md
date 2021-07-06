@@ -4,7 +4,7 @@ layout: contact
 bodyClass: page-contact
 ---
 
-# Learn about starting a digital health project or licensing an AI Healthcare Solution.
+# 了解如何啟動數位健康項目或許可 AI 醫療保健解決方案。
 
 
 | Inquiry Reason | Ways to Reach Us  |

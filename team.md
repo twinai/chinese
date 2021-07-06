@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# 認識團隊
 
-Our team of experts and engineers can help your business at any stage of it's growth.
+我們的專家和工程師團隊可以在業務發展的任何階段為您提供説明。

@@ -10,10 +10,10 @@ weight: 1
 layout: team
 ---
 
-Nagu has 20+ years of experience in building successful data science teams and digital transformation for the enterprises specializing in Financial Services, Healthcare, Leisure Retail and Leisure Travel where BigData , BigOps, Data Governance, AI and MLOps are core elements of growth.
+Nagu在為金融服務、醫療保健、休閒零售和休閒旅遊領域的企業建立成功的數據科學團隊和數位化轉型方面擁有 20 多年的經驗，其中 BigData、BigOps、數據治理、AI 和 MLP 是增長的核心要素。
 
-Nagu has also deep knowledge and experience in designing, architecting and implementing blockchain based applications for FinTech, Healthcare and privacy preserving solutions for data intensive applications & platforms.
+Nagu在為 FinTech、醫療保健和隱私保護解決方案設計、架構和實施基於區塊鏈的應用方面也擁有深厚的知識和經驗，可為數據密集型應用和平臺提供解決方案。
 
-Nagu has led, created and mentored large teams of data scientists, engineers, AI/Ml engineers and senior leaders in his prior professional working experience.
+Nagu在之前的專業工作經驗中領導、創建和指導了由數據科學家、工程師、AI/Ml 工程師和高級領導者組成的大型團隊。
 
-Nagu holds professional and graduate degrees from MIT in Cybersecurity, FinTech, IOT and BigData and AI and from Indian Institute of Technology (IIT) and University of Southern California degrees in Mathematics and Computer Science.
+Nagu擁有麻省理工學院網路安全、金融科技、IOT、BigData 和 AI 的專業和研究生學位，以及印度理工學院 （IIT） 和南加州大學數學和電腦科學學位。

@@ -10,8 +10,8 @@ weight: 3
 layout: team
 ---
 
-Wang, Chiao-Jung has over 25+ years of experience in leading large teams in finance, insurance and real estate investment & development projects in Asia and America.
+王皎容在領導亞洲和美國的金融、保險和房地產投資開發專案的大型團隊方面擁有超過25年的經驗。
 
-She founded NatureMyBody, a marketplace for unique and creative goods and a home to a universe of special, extraordinary items, from unique handcrafted pieces to vintage treasures. She helped a community of sellers turn their ideas into successful businesses. At NatureMyBody, she we built a place where creativity lives and thrives because it’s powered by people.
+她創立了 NatureMyBody，這是一個獨特而富有創意的商品市場，也是從獨特的手工製品到古董珍品等各種特殊、非凡物品的家園。她説明一個賣家社區把他們的想法轉化為成功的企業。在自然我身體，她，我們建立了一個地方，創造力生活和蓬勃發展，因為它是由人的力量。
 
-She graduated from University of Southern California and a certified architect.
+她畢業於南加州大學，是一名經過認證的建築師。

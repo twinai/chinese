@@ -7,35 +7,35 @@ bodyClass: page-about
 ---
 
 
-## Why We’re Here
+## 為什麼我們在這
 
-### We believe in augmenting human intelligence, not replacing it.
+### 我們相信增強人類的智慧，而不是取代它
 
-With good data and the right technology, people and institutions today can still solve hard problems and change the world for the better.
+有了良好的資料和正確的技術，當今的人員和機構仍然可以解決難題，使世界變得更好。
 
-When we looked at the available technology, we saw products that were too rigid to handle novel problems, and custom systems that took too long to deploy and required too many services to maintain and improve.
+當我們查看可用的技術時，我們看到產品過於剛性，無法處理新問題，以及部署時間過長且需要太多服務來維護和改進的自定義系統。
 
-We saw automated approaches that failed against adaptive adversaries, and all-or-nothing access controls that forced organizations to make unacceptable trade-offs between collaborating and securing sensitive data from misuse.
+我們看到自動化方法無法對抗自適應對手，以及全有或全無的訪問控制，迫使組織在協作和保護敏感資料免於濫用之間做出不可接受的權衡的全有或全無訪問控制。
 
-We saw a need for a different kind of technology, and we knew it would take a different kind of company to build it. That’s why we founded Twin AI.
+我們看到了對不同類型技術的需求，我們知道需要不同類型的公司來構建它。這就是我們創立 Twin AI 的原因。
 
-## What We Do
+## 我們做了什麼
 
-## We make products for human-driven analysis of real-world data
+## 我們生產用於對現實世界數據進行人工驅動分析的產品
 
-We’re focused on creating the world’s best user experience for working with data, one that empowers people to ask and answer complex questions without requiring them to master querying languages, statistical modeling, AI/ML or the command line. To achieve this, we build platforms for integrating, managing, and securing data on top of which we layer applications for fully interactive human-driven, machine-assisted analysis.
+我們專注於創建世界上最好的處理資料用戶體驗，使人們能夠提出和回答複雜的問題，而無需他們掌握查詢語言、統計建模、AI/ML 或命令行。為此，我們構建了集成、管理和保護數據的平臺，並在這些平臺之上分層應用，實現全互動式人為驅動的機器輔助分析。
 
-## We build our company around mission-driven engineering
-We’re engineers. At our offices, we’ve assembled a team that combines practical expertise in distributed systems infrastructure, big data processing, user experience design, and data science. Whatever their role, each person combines an uncompromising engineering mindset with an unwavering focus on executing in service of the mission.
+## 我們圍繞任務驅動型工程來建立公司
+我們是工程師。在我們的辦公室，我們組建了一個團隊，他們結合了分佈式系統基礎架構、大數據處理、用戶體驗設計和數據科學方面的實踐專業知識。無論他們扮演什麼角色，每個人都將堅定不移的工程思維與堅定不移地專注於為使命服務。
 
-## We meet the problems where they live
-Our customers have data and a deep understanding of the problems they face. We have proven products and an engineering mindset. We send our engineers into the field to work directly with our customers—deploying our products, integrating their data, optimizing their workflows, and producing operational results in weeks, not years. By establishing a true partnership, we help customers get the most out of our products and engineering expertise.
+## 我們遇到他們生活的問題
+我們的客戶擁有資料，並深知他們面臨的問題。我們已經驗證了產品和工程理念。我們派工程師到現場直接與客戶合作——部署我們的產品，整合他們的數據，優化他們的工作流程，並在數周而不是數年內產生運營結果。通過建立真正的合作關係，我們幫助客戶充分利用我們的產品和工程專業知識。
 
-## We design technology to help institutions protect data liberty
-Analytic technology, especially in the hands of powerful institutions that hold large volumes of data, can pose serious risks to privacy and civil liberties. That's why we build privacy-protective capabilities into our products, help customers understand how to use them responsibly, and work with advocacy groups and the policy community on how technology can be used to protect privacy interests today and in the future. We have always been, and continue to be, committed to helping organizations get value out of their data while protecting sensitive information from misuse and abuse.
+## 我們設計技術來幫助機構保護資料自由
+分析技術，尤其是掌握大量數據的強大機構，可能會對隱私和公民自由構成嚴重風險。因此，我們將隱私保護功能構建到我們的產品中，幫助客戶瞭解如何負責任地使用它們，並與宣導團體和政策社區合作，研究如何利用技術保護當今和未來的隱私利益。我們一直並將繼續致力於幫助組織從其數據中獲取價值，同時保護敏感資訊免受濫用和濫用。
 
-## We go where we’re needed most
-We are engineers on a mission. We seek out the most critical problems we can find—the ones that pose threats not only to many of the world’s most important institutions, but to the people they serve as well. Some institutions have the resources to pay for our products, and some don’t. Whatever the situation, our approach with all our clients is the same: to establish a partnership that transforms the way they use data in pursuit of their goals.
+## 我們去最需要我們的地方
+我們是肩負使命的工程師。我們尋找我們能找到的最關鍵的問題——那些不僅對世界上許多最重要的機構而且對它們所服務的人構成威脅的問題。有些機構有資源為我們的產品付費，有些則沒有。無論情況如何，我們與所有客戶的方法都是一樣的：建立合作夥伴關係，改變他們使用數據的方式以實現目標。
 
-## Where We’re Going
-We are working to build a future in which public health institutions, commercial enterprises, and non-profit organizations can use data to function as they were designed—to fulfill the mandates with which they’ve been entrusted, to deliver value to customers, and to distribute aid to those most in need.
+## 我們要去哪裡
+我們正在努力建設一個未來，公共衛生機構、商業企業和非營利組織能夠按照其設計使用數據來運作——履行賦予他們的使命，為客戶創造價值，以及將援助分發給最需要幫助的人。

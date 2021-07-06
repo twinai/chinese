@@ -10,4 +10,4 @@ weight: 2
 layout: team
 ---
 
-Lai, FeiPei is a professor in the Graduate Institute of Biomedical Electronics and Bioinformatics, the Department of Computer Science & Information Engineering and the Department of Electrical Engineering at National Taiwan University. He was a vice superintendent of National Taiwan University Hospital. He was the chairman of Taiwan Network Information Center. He was a visiting professor in the Department of Computer Science and Engineering at the University of Minnesota, Minneapolis, USA. He was also a guest Professor at University of Dortmund, Germany and a visiting senior computer system engineer in the Center for Supercomputing Research and Development at the University of Illinois at Urbana-Champaign. Dr. Lai holds 7 Taiwan patents and 4 USA patents currently. His current research interests are SOC low power computing, Medical Information System.
+賴飛羆是國立台灣大學生醫電子與資訊學研所、資訊工程學系、電機工程系教授。他是國立臺大醫院的副院長。他是台灣網路資訊中心的主席。他是美國明尼阿波利斯明尼蘇達大學計算機科學與工程系的客座教授。他還是德國多特蒙德大學的客座教授和伊利諾伊大學厄巴納-香檳分校超級計算研發中心的客座高級計算機系統工程師。賴博士目前擁有7項台灣專利和4項美國專利。他目前的研究興趣是SC低功耗計算、醫療信息系統。
