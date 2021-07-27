@@ -1,8 +1,8 @@
 ---
-title: "Development of AI Solutions & Products"
+title: "AI網路安全"
 date: 2018-11-28T15:14:39+10:00
 featured: true
-weight: 2
+weight: 5
 layout: service
 ---
 
