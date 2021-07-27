@@ -11,6 +11,9 @@ main:
   - name: "聯絡方式"
     url: "/contact/"
     weight: 5
+  - name: "English"
+    url: "https://twinai.tw/chinese/"
+    weight: 6
 
 footer:
   - name: "首頁"
